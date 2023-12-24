@@ -1,0 +1,17 @@
+td , th{
+    border: 1px solid rgb(212, 208, 208);
+    padding: 10px 8px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 30px 380px;
+}
+
+.heading1 ,.heading2{
+    background-color:lightblue;
+}
+
+.heading2 , .heading1{
+    text-align: left;
+}
